@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+.venv
+env/
+optdyn/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plots / outputs 
+plots/*.png
+plots/*.pdf
